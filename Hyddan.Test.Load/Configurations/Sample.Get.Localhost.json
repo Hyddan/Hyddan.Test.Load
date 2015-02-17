@@ -1,0 +1,10 @@
+﻿{
+	"Requests": 10,
+    "Timeout": 10000,
+	"Condition": null,
+	"Data": null,
+	"Executions": 10,
+	"Method": "GET",
+	"Url": "http://127.0.0.1/",
+	"Headers": null
+}
