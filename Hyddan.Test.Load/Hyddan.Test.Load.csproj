@@ -85,15 +85,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Configurations\Authorization.At.json" />
-    <None Include="Configurations\Authorization.Prod.json" />
-    <None Include="Configurations\Authorization.Prod.Validate.json" />
-    <None Include="Configurations\PlayReady.License.At.json" />
-    <None Include="Configurations\PlayReady.License.Localhost.json" />
-    <None Include="Configurations\Video.CommonPlatform.Prod.json" />
-    <None Include="Configurations\Widevine.Key.At.Localhost.json" />
+    <None Include="Configurations\Sample.Get.Localhost.json" />
     <None Include="packages.config" />
-    <None Include="Configurations\PlayReady.License.At.Localhost.json" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
